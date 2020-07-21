@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// 全てのURLでindexを返す
+Route::get('/{any?}', function () {
+	return view('index');
+})->where('any', '.+');
