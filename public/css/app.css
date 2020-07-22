@@ -76,7 +76,7 @@ img {
 }
 
 .navbar__brand:hover {
-  opacity: 0.6;
+  opacity: .6;
 }
 
 .navbar__menu {
@@ -153,17 +153,17 @@ img {
 .photo__action {
   background: #fff;
   border: 0;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   color: #222;
   cursor: pointer;
   display: inline-block;
   font-family: inherit;
   font-size: 1rem;
   line-height: 1;
-  margin-left: 0.25rem;
-  opacity: 0.8;
+  margin-left: .25rem;
+  opacity: .8;
   outline: none;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
 }
 
 .photo__action:hover {
@@ -172,7 +172,7 @@ img {
 
 .photo__action--like .icon {
   color: #e4406f;
-  margin-right: 0.5em;
+  margin-right: .5em;
 }
 
 .photo__action--liked {
@@ -211,7 +211,7 @@ img {
 }
 
 .photo-detail__image figcaption {
-  margin-top: 0.5rem;
+  margin-top: .5rem;
 }
 
 .photo-detail__title {
@@ -220,7 +220,7 @@ img {
 }
 
 .photo-detail__title .icon {
-  margin-right: 0.5em;
+  margin-right: .5em;
 }
 
 .photo-detail__comments {
@@ -246,7 +246,7 @@ img {
 
 .photo-form {
   background: #fff;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
   max-height: 75vh;
   max-width: 600px;
@@ -260,7 +260,7 @@ img {
 
 .button {
   border: 1px solid #dedede;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   color: #8a8a8a;
   cursor: pointer;
   display: inline-block;
@@ -268,7 +268,7 @@ img {
   font-size: 1rem;
   line-height: 1;
   outline: none;
-  padding: 0.5rem 0.75rem;
+  padding: .5rem .75rem;
   text-decoration: none;
   transition: border-color 300ms ease-in-out, color 300ms ease-in-out;
 }
@@ -279,7 +279,7 @@ img {
 }
 
 .button .icon {
-  margin-right: 0.5em;
+  margin-right: .5em;
 }
 
 .button--link {
@@ -296,7 +296,7 @@ img {
 .button--inverse:hover {
   background: #222;
   color: #fff;
-  opacity: 0.8;
+  opacity: .8;
 }
 
 .button--fluid {
@@ -320,21 +320,21 @@ img {
 .button--liked:hover {
   border-color: #e4406f;
   color: #fff;
-  opacity: 0.8;
+  opacity: .8;
 }
 
 .form__item {
   border: 1px solid #dedede;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   font-size: 1rem;
   margin-bottom: 1rem;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   width: 100%;
 }
 
 .form label {
   display: block;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
 }
 
 .form__output {
@@ -377,7 +377,7 @@ img {
 
 .errors {
   border: 1px solid #c7004c;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   color: #c7004c;
   margin-bottom: 1rem;
 }
@@ -500,7 +500,7 @@ img {
 .message {
   background: #D7F9EE;
   border: 1px solid #41e2b2;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
   color: #117355;
   margin-bottom: 1.5rem;
   padding: 1rem;
